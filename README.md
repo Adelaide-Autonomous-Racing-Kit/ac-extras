@@ -1,4 +1,4 @@
-# ACE
+# Assetto Corsa Extras
 Helper functions and classes for use in AARK with the Assetto Corsa Interface
 
 ## Usage
